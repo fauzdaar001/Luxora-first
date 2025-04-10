@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>M&H Luxe</title>
+</head>
+<body>
+  <h1>Welcome to M&H Luxe</h1>
+  <p>This is Harsh Fauzdaar's first deployed project on Vercel.</p>
+</body>
+</html>
